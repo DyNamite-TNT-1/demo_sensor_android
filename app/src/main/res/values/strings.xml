@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sensor_android</string>
+    <string name="value_x">value x</string>
+    <string name="value_y">value y</string>
+    <string name="value_z">value z</string>
+
+</resources>
